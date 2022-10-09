@@ -20,6 +20,7 @@ Ayuri (2018-2021) - <strong>321</strong> servers
 <br>
 <h3>Contributor At</h3>
 <a href="https://github.com/nikolaischunk/discord-phishing-links">discord-phishing-links</a> by <strong>nikolaischunk</strong>
+
 <a href="https://github.com/vcodes-xyz/translation">VCodes English Translations</a> by <strong>VCodes.xyz</strong>
 <br>
 <br>
